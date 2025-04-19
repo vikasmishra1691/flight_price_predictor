@@ -1,3 +1,6 @@
+numpy
+joblib
+WTForms
 flask
 pandas
 flask-wtf
